@@ -12,6 +12,9 @@ body {
     color: #4e342e; 
 }
 
+main {
+    flex: 1; 
+}
 header {
     background-color: #795548; 
     color: #ffeb3b; 
